@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://rodgute011221.github.io/Landing-page-1/sitemap.xml
